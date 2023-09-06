@@ -1,0 +1,6 @@
+Jan;Kos;18;2000 [Komputer;Elektronika;2400 Balladyna;Ksiazka;100 Balladyna;Ksiazka;100]
+Adam;Nowak;45;6500 [Pralka;Elektronika;4300 Batonik;Jedzenie;3 Batonik;Jedzenie;3]
+Joanna;Kowalska;27;1500 [Spodnie;Odziez;90 Kwiatek;Roslina;90]
+Jan;Kos;18;2000 [Salatka;Jedzenie;15 Balladyna;Ksiazka;100]
+Adam;Nowak;45;6500 [Bluzka;Odziez;150 Drukarka;Elektronika;1500]
+Piotr;Kowalski;31;2300 [Kurtka;Odziez;250 Balladyna;Ksiazka;100]
